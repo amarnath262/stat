@@ -1,0 +1,16 @@
+{
+    "name": "Battery Health",
+    "type": "flogo:activity",
+    "version": "0.0.1",
+    "title": "Battery_Health",
+    "description": "Fetches the MAC Address",
+    "homepage": "https://github.com/amarnath262/stat/battery",
+    "input": [
+    ],
+    "output": [
+      {
+        "name": "Output",
+        "type": "any"
+      }
+    ]
+  }
